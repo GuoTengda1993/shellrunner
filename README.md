@@ -1,2 +1,2 @@
 # shellrunner
-Tool for test Linux autimatically, like httprunner
+Tool for test Linux autimatically, like httprunner.
